@@ -13,18 +13,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[blog3]]></title>
-    <url>%2F2018%2F02%2F28%2Fblog3%2F</url>
-    <content type="text"><![CDATA[this is blog3 ! insert code 12&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=298 height=52 src=&quot;//music.163.com/outchain/player?type=2&amp;id=439646654&amp;auto=1&amp;height=32&quot;&gt;&lt;/iframe&gt;]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-        <tag>3</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[blog2]]></title>
     <url>%2F2018%2F02%2F28%2Fblog2%2F</url>
     <content type="text"><![CDATA[this is blog2 ! https://thie.one/2017/03/03/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/]]></content>
@@ -34,6 +22,18 @@
       <tags>
         <tag>test</tag>
         <tag>2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[blog3]]></title>
+    <url>%2F2018%2F02%2F28%2Fblog3%2F</url>
+    <content type="text"><![CDATA[this is blog3 ! insert code 12&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=298 height=52 src=&quot;//music.163.com/outchain/player?type=2&amp;id=439646654&amp;auto=1&amp;height=32&quot;&gt;&lt;/iframe&gt;]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+        <tag>3</tag>
       </tags>
   </entry>
   <entry>
