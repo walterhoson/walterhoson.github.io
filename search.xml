@@ -61,18 +61,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[blog8]]></title>
-    <url>%2F2018%2F02%2F28%2Fblog8%2F</url>
-    <content type="text"><![CDATA[this is blog8 !]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-        <tag>8</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[blog7]]></title>
     <url>%2F2018%2F02%2F28%2Fblog7%2F</url>
     <content type="text"><![CDATA[this is blog7 !]]></content>
@@ -82,6 +70,18 @@
       <tags>
         <tag>test</tag>
         <tag>7</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[blog8]]></title>
+    <url>%2F2018%2F02%2F28%2Fblog8%2F</url>
+    <content type="text"><![CDATA[this is blog8 !]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+        <tag>8</tag>
       </tags>
   </entry>
   <entry>
